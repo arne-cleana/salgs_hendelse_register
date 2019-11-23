@@ -1,0 +1,1 @@
+# salgs_hendelse_register
