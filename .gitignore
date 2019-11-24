@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The directory Mix will write compiled artifacts to.
 /_build/
 
@@ -26,3 +27,14 @@ cleana_salgshendelser-*.tar
 .vscode/
 /deps/
 .elixir_ls/
+=======
+/_build
+/cover
+/deps
+/doc
+/.fetch
+erl_crash.dump
+*.ez
+*.beam
+/config/*.secret.exs
+>>>>>>> 911ae2e4f960a92ae8cf05bca866ebfea30f1d44

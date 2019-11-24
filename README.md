@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SalgsHndelseRegister
 
 **TODO: Add description**
@@ -19,3 +20,6 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/cleana_salgshendelser](https://hexdocs.pm/cleana_salgshendelser).
 
+=======
+# salgs_hendelse_register
+>>>>>>> 911ae2e4f960a92ae8cf05bca866ebfea30f1d44
